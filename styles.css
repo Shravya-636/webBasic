@@ -1,0 +1,26 @@
+body{
+    background:url("https://media.istockphoto.com/id/118353407/vector/watercolor-paint-colored-stained-canvas-series.jpg?s=612x612&w=0&k=20&c=vhZh6evRtCAwHDyc5IjULwb1s44yUSHWn0o2gsVzJS4=");
+    background-repeat: no-repeat;
+    background-attachment:fixed ;
+    background-size: cover;
+}
+h1{
+    color: #640D5F;
+    font-family:cursive;
+    font-size: 40pt;
+}
+b{
+    color: #7E60BF;
+    font-size: 20pt;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    color: #34676a;
+    font-size: 25pt;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    color: #512c5a;
+    font-size: 15pt;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
